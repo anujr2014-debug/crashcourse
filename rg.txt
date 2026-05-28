@@ -1,0 +1,4 @@
+resources "azurerm_resource_group" "rg4" {
+name = "anuj"
+locatuion = "westus"
+}
