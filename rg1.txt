@@ -1,0 +1,8 @@
+resources "azurerm_resource_group" "rg4" {
+name = "anujrajput"
+locatuion = "westus"
+}
+resources "azurerm_resource_group" "rg5" {
+name = "anujkumar"
+locatuion = "westus"
+}
